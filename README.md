@@ -1,4 +1,4 @@
-# Scene_recogintion
+# Scene_recognition
 I started to make some changes on the original dataset (CVPR 09) the 
 original dataset was 67 Indoor categories, and a total of 15620 images
 So I removed the unwanted categories and the kind of duplicated categories 
